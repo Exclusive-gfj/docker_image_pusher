@@ -1,1 +1,2 @@
 gradle:8.7.0-jdk21
+openjdk:21-jdk
