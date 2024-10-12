@@ -4,3 +4,4 @@ tmaier/docker-compose:latest
 nginx:latest
 nacos/nacos-server:v2.4.1
 gitlab/gitlab-ce:16.11.10-ce.0
+bitnami/kafka:latest
