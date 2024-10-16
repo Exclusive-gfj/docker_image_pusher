@@ -1,5 +1,6 @@
 gradle:8.7.0-jdk21
 openjdk:21-jdk
+openjdk:8u431-jdk
 tmaier/docker-compose:latest
 nginx:latest
 nacos/nacos-server:v2.4.1
