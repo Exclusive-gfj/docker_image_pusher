@@ -5,6 +5,7 @@ tmaier/docker-compose:latest
 nginx:latest
 nacos/nacos-server:v2.4.1
 gitlab/gitlab-ce:16.11.10-ce.0
+gitlab/gitlab-runner:v16.11.3
 bitnami/kafka:latest
 portainer/portainer-ce:2.21.3
 minio/minio:RELEASE.2024-10-13T13-34-11Z
