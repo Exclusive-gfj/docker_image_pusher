@@ -11,3 +11,4 @@ portainer/portainer-ce:2.21.3
 minio/minio:RELEASE.2024-10-13T13-34-11Z
 xuxueli/xxl-job-admin:2.4.1
 redis:4.0.13
+node:14.5.0
