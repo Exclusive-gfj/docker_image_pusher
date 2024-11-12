@@ -4,10 +4,12 @@ openjdk:8
 tmaier/docker-compose:latest
 nginx:latest
 nacos/nacos-server:v2.4.2.1
+nacos/nacos-server:v2.3.1
 gitlab/gitlab-ce:16.11.10-ce.0
 gitlab/gitlab-runner:v16.11.3
 bitnami/kafka:latest
 portainer/portainer-ce:2.21.3
+portainer/portainer-ce:2.21.4
 minio/minio:RELEASE.2024-10-13T13-34-11Z
 xuxueli/xxl-job-admin:2.4.1
 redis:4.0.13
